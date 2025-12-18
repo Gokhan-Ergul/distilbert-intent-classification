@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datasets (opsiyonel, istersen kapatırız)
+# *.csv
+
+# Models / artifacts
+*.pt
+*.pth
+*.ckpt
+*.tflite
+
+# OS
+.DS_Store
